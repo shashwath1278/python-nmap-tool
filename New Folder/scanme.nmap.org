@@ -1,0 +1,3 @@
+# Nmap 7.94SVN scan initiated Thu Oct 31 15:58:21 2024 as: /usr/lib/nmap/nmap --privileged -oG scanme.nmap.org -p 22 -vv
+# Ports scanned: TCP(1;22) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+# Nmap done at Thu Oct 31 15:58:21 2024 -- 0 IP addresses (0 hosts up) scanned in 0.02 seconds
