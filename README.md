@@ -28,6 +28,7 @@ This is a simple command-line tool that utilizes the Nmap library to perform var
    ```bash
    pip install python-nmap
 3. **Install Nmap**:
+   
    On Linux:
    ```bash
      sudo apt-get install nmap
